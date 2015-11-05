@@ -1,2 +1,3 @@
-# coursera-jhudatascience-predmachlearn
-Coursera - Specialization Data Science - Practical Machine Learning
+# Practical Machine Learning
+## Content
+* README.md
